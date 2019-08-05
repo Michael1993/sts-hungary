@@ -1,4 +1,4 @@
-proceed				- folytatás
+﻿proceed				- folytatás
 (abandon) run 			- menet
 floor 				- szint
 relic				- ereklye
@@ -17,4 +17,8 @@ rare				-kivételes
 Remove Card			- Kártya eltávolítása
 shiv				- penge
 
-channel orb			- gömb megidézése
+channel orb 			- gömb megidézése
+block				- blokk(olás)
+ethereal			- anyagtalan
+intangible			- érinthetetlenség
+innate				- kezdőlap
