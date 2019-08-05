@@ -1,40 +1,40 @@
 {
   "A Thousand Cuts": {
-    "NAME": "A Thousand Cuts",
-    "DESCRIPTION": "Whenever you play a card, deal !M! damage to ALL enemies."
+    "NAME": "Ezer Éles Kés",
+    "DESCRIPTION": "Valahányszor kijátszol egy kártyát, MINDEN ellenség elszenved !M! sebzést."
   },
   "Accuracy": {
     "NAME": "Accuracy",
     "DESCRIPTION": "Shivs deal !M! additional damage."
   },
   "Acrobatics": {
-    "NAME": "Acrobatics",
-    "DESCRIPTION": "Draw !M! cards. NL Discard 1 card."
+    "NAME": "Akrobatika",
+    "DESCRIPTION": "Húzz !M! kártyát. NL Dobj el 1 kártyát."
   },
   "Adrenaline": {
-    "NAME": "Adrenaline",
-    "DESCRIPTION": "Gain [G]. NL Draw 2 cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain [G] [G]. NL Draw 2 cards. NL Exhaust."
+    "NAME": "Adrenalin",
+    "DESCRIPTION": "Gain [G]. NL Húzz 2 kártyát. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Gain [G] [G]. NL Húzz 2 kártyát. NL Kimerül."
   },
   "After Image": {
-    "NAME": "After Image",
+    "NAME": "Árnyékkép",
     "DESCRIPTION": "Whenever you play a card, gain 1 Block.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card, gain 1 Block."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL Whenever you play a card, gain 1 Block."
   },
   "Aggregate": {
-    "NAME": "Aggregate",
+    "NAME": "Csoportosítás",
     "DESCRIPTION": "Gain [B] for every !M! cards in your draw pile."
   },
   "All For One": {
-    "NAME": "All for One",
-    "DESCRIPTION": "Deal !D! damage. Put all cost 0 cards from your discard pile into your hand."
+    "NAME": "Mindenki Egyért",
+    "DESCRIPTION": "Üss !D! sebzést. Put all cost 0 cards from your discard pile into your hand."
   },
   "All Out Attack": {
     "NAME": "All-Out Attack",
     "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Discard 1 card at random."
   },
   "Allocate": {
-    "NAME": "Allocate",
+    "NAME": "Perspektíva",
     "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
   },
   "Amplify": {
@@ -44,11 +44,11 @@
   },
   "Anger": {
     "NAME": "Anger",
-    "DESCRIPTION": "Deal !D! damage. NL Add a copy of this card to your discard pile."
+    "DESCRIPTION": "Üss !D! sebzést. NL Add a copy of this card to your discard pile."
   },
   "Apotheosis": {
     "NAME": "Apotheosis",
-    "DESCRIPTION": "Upgrade ALL of your cards for the rest of combat. NL Exhaust."
+    "DESCRIPTION": "Upgrade ALL of your cards for the rest of combat. NL Kimerül."
   },
   "Armaments": {
     "NAME": "Armaments",
@@ -57,7 +57,7 @@
   },
   "AscendersBane": {
     "NAME": "Ascender's Bane",
-    "DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
+    "DESCRIPTION": "Kijátszhatatlan. NL Anyagtalan. NL Cannot be removed from your deck."
   },
   "Auto Shields": {
     "NAME": "Auto-Shields",
@@ -65,76 +65,76 @@
   },
   "Axe Kick": {
     "NAME": "Axe Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke your next Orb."
+    "DESCRIPTION": "Üss !D! sebzést. NL Evoke your next Orb."
   },
   "Backflip": {
     "NAME": "Backflip",
-    "DESCRIPTION": "Gain !B! Block. NL Draw 2 cards."
+    "DESCRIPTION": "Gain !B! Block. NL Húzz 2 kártyát."
   },
   "Backstab": {
     "NAME": "Backstab",
-    "DESCRIPTION": "Deal !D! damage. NL Innate. NL Exhaust."
+    "DESCRIPTION": "Üss !D! sebzést. NL Kezdőlap. NL Kimerül."
   },
   "Ball Lightning": {
     "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "DESCRIPTION": "Üss !D! sebzést. Channel !M! Lightning."
   },
   "Bandage Up": {
-    "NAME": "Bandage Up",
-    "DESCRIPTION": "Heal !M! HP. NL Exhaust."
+    "NAME": "Kötszer",
+    "DESCRIPTION": "Heal !M! HP. NL Kimerül."
   },
   "Bane": {
-    "NAME": "Bane",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy is Poisoned, deal !D! damage again."
+    "NAME": "Csapás",
+    "DESCRIPTION": "Üss !D! sebzést. NL If the enemy is Poisoned, deal !D! damage again."
   },
   "Barrage": {
-    "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "NAME": "Sortűz",
+    "DESCRIPTION": "Üss !D! sebzést minden Bekészített Gömb után."
   },
   "Barricade": {
-    "NAME": "Barricade",
-    "DESCRIPTION": "Block no longer expires at the start of your turn."
+    "NAME": "Barikád",
+    "DESCRIPTION": "A blokkod megmarad a kör vége után is."
   },
   "Bash": {
-    "NAME": "Bash",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+    "NAME": "Horpasztás",
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Sebezhetőség."
   },
   "Battle Trance": {
-    "NAME": "Battle Trance",
-    "DESCRIPTION": "Draw !M! cards. NL You cannot draw any additional cards this turn."
+    "NAME": "Harcállás",
+    "DESCRIPTION": "Húzz !M! kártyát. NL Ebben a körben nem húzhatsz több lapot."
   },
   "Beam Cell": {
     "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "DESCRIPTION": "Deal !D! damage and apply !M! Sebezhetőség."
   },
   "Berserk": {
-    "NAME": "Berserk",
-    "DESCRIPTION": "Gain !M! Vulnerable. NL Gain [R] at the start of each turn."
+    "NAME": "Berzerker",
+    "DESCRIPTION": "Gain !M! Sebezhetőség. NL Gain [R] at the start of each turn."
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
+    "NAME": "Süllyedő Költség",
     "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
   },
   "Bite": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
+    "NAME": "Harapás",
+    "DESCRIPTION": "Üss !D! sebzést. NL Heal !M! HP."
   },
   "Blade Dance": {
-    "NAME": "Blade Dance",
+    "NAME": "Kések Tánca",
     "DESCRIPTION": "Add !M! Shivs to your hand."
   },
   "Blaster": {
     "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] minden Bekészített Gömb után. NL Kimerül."
   },
   "Blind": {
-    "NAME": "Blind",
+    "NAME": "Vakság",
     "DESCRIPTION": "Apply !M! Weak.",
     "UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
   },
   "Blizzard": {
-    "NAME": "Blizzard",
-    "DESCRIPTION": "Deal damage equal to !M! times the Frost Channeled this combat to ALL enemies.",
+    "NAME": "Jégvihar",
+    "DESCRIPTION": "Üss annyi sebzést mint ami az ebben a csatában bekészített Jég !M!-szerese.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)",
@@ -142,17 +142,17 @@
     ]
   },
   "Blood for Blood": {
-    "NAME": "Blood for Blood",
-    "DESCRIPTION": "Costs 1 less [R] NL for each time you lose HP in combat. NL Deal !D! damage."
+    "NAME": "Szemet Szemért",
+    "DESCRIPTION": "1-el kevesebb [R]-be kerül NL minden alkalomért amikor HP-t vesztettél ebben a csatában. NL Üss !D! sebzést."
   },
   "Bloodletting": {
     "NAME": "Bloodletting",
-    "DESCRIPTION": "Gain [R]. NL Lose 3 HP.",
-    "UPGRADE_DESCRIPTION": "Gain [R] [R]. NL Lose 3 HP."
+    "DESCRIPTION": "Szerezz [R]. NL Veszíts 3 HP-t.",
+    "UPGRADE_DESCRIPTION": "Szerezz [R] [R]. NL Veszíts 3 HP-t."
   },
   "Bludgeon": {
     "NAME": "Bludgeon",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Blur": {
     "NAME": "Blur",
@@ -165,7 +165,7 @@
   },
   "BootSequence": {
     "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. NL Kezdőlap. NL Kimerül."
   },
   "Bouncing Flask": {
     "NAME": "Bouncing Flask",
@@ -174,7 +174,7 @@
   "Brutality": {
     "NAME": "Brutality",
     "DESCRIPTION": "At the start of your turn, lose 1 HP and draw 1 card.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and draw 1 card."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL At the start of your turn, lose 1 HP and draw 1 card."
   },
   "Buffer": {
     "NAME": "Buffer",
@@ -187,8 +187,8 @@
   },
   "Burn": {
     "NAME": "Burn",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage.",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL At the end of your turn, take 4 damage."
+    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, take 2 damage.",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, take 4 damage."
   },
   "Burning Pact": {
     "NAME": "Burning Pact",
@@ -205,7 +205,7 @@
   },
   "Calculated Gamble": {
     "NAME": "Calculated Gamble",
-    "DESCRIPTION": "Discard your hand, NL then draw that many cards. NL Exhaust.",
+    "DESCRIPTION": "Discard your hand, NL then draw that many cards. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Discard your hand, NL then draw that many cards."
   },
   "Caltrops": {
@@ -219,12 +219,12 @@
   },
   "Carnage": {
     "NAME": "Carnage",
-    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
+    "DESCRIPTION": "Anyagtalan. NL Üss !D! sebzést."
   },
   "Catalyst": {
     "NAME": "Catalyst",
-    "DESCRIPTION": "Double an enemy's Poison. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Triple an enemy's Poison. NL Exhaust."
+    "DESCRIPTION": "Double an enemy's Poison. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Triple an enemy's Poison. NL Kimerül."
   },
   "Channel": {
     "NAME": "Channel",
@@ -232,25 +232,25 @@
   },
   "Chaos": {
     "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "DESCRIPTION": "Készíts be !M! véletlenszerű Gömböt.",
+    "UPGRADE_DESCRIPTION": "Készíts be !M! véletlenszerű Gömböt."
   },
   "Chill": {
     "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
+    "DESCRIPTION": "Készíts be !M! Frost for each enemy in combat. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL Channel !M! Frost for each enemy in combat. NL Kimerül."
   },
   "Choke": {
     "NAME": "Choke",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play a card this turn, targeted enemy loses !M! HP."
+    "DESCRIPTION": "Üss !D! sebzést. NL Whenever you play a card this turn, targeted enemy loses !M! HP."
   },
   "Chrysalis": {
     "NAME": "Chrysalis",
-    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Exhaust."
+    "DESCRIPTION": "Add !M! random Skills into your Draw Pile. They cost 0 this combat. NL Kimerül."
   },
   "Clash": {
     "NAME": "Clash",
-    "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Deal !D! damage.",
+    "DESCRIPTION": "Can only be played if every card in your hand is an Attack. NL Üss !D! sebzést.",
     "EXTENDED_DESCRIPTION": [
       "I have non-attack cards in my hand."
     ]
@@ -266,15 +266,15 @@
   },
   "Clothesline": {
     "NAME": "Clothesline",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Weak."
   },
   "Clumsy": {
     "NAME": "Clumsy",
-    "DESCRIPTION": "Unplayable. NL Ethereal."
+    "DESCRIPTION": "Kijátszhatatlan. NL Anyagtalan."
   },
   "Cold Snap": {
     "NAME": "Cold Snap",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Frost."
+    "DESCRIPTION": "Üss !D! sebzést. Channel !M! Frost."
   },
   "Combust": {
     "NAME": "Combust",
@@ -315,7 +315,7 @@
   },
   "Crippling Poison": {
     "NAME": "Crippling Cloud",
-    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Exhaust."
+    "DESCRIPTION": "Apply !M! Poison and 2 Weak to ALL enemies. NL Kimerül."
   },
   "Dagger Spray": {
     "NAME": "Dagger Spray",
@@ -323,7 +323,7 @@
   },
   "Dagger Throw": {
     "NAME": "Dagger Throw",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Discard 1 card."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw 1 card. NL Discard 1 card."
   },
   "Dark Embrace": {
     "NAME": "Dark Embrace",
@@ -331,7 +331,7 @@
   },
   "Dark Shackles": {
     "NAME": "Dark Shackles",
-    "DESCRIPTION": "Enemy loses !M! Strength for the rest of this turn. NL Exhaust."
+    "DESCRIPTION": "Enemy loses !M! Strength for the rest of this turn. NL Kimerül."
   },
   "Darkness": {
     "NAME": "Darkness",
@@ -340,11 +340,11 @@
   },
   "Dash": {
     "NAME": "Dash",
-    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+    "DESCRIPTION": "Gain !B! Block. NL Üss !D! sebzést."
   },
   "Dazed": {
     "NAME": "Dazed",
-    "DESCRIPTION": "Unplayable. NL Ethereal."
+    "DESCRIPTION": "Kijátszhatatlan. NL Anyagtalan."
   },
   "Deadly Poison": {
     "NAME": "Deadly Poison",
@@ -352,7 +352,7 @@
   },
   "Decay": {
     "NAME": "Decay",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, take 2 damage."
+    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, take 2 damage."
   },
   "Deep Breath": {
     "NAME": "Deep Breath",
@@ -385,15 +385,15 @@
   },
   "Die Die Die": {
     "NAME": "Die Die Die",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Kimerül."
   },
   "Disarm": {
     "NAME": "Disarm",
-    "DESCRIPTION": "Enemy loses !M! Strength. NL Exhaust."
+    "DESCRIPTION": "Enemy loses !M! Strength. NL Kimerül."
   },
   "Distraction": {
     "NAME": "Distraction",
-    "DESCRIPTION": "Add a random Skill to your hand. NL It costs 0 this turn. NL Exhaust."
+    "DESCRIPTION": "Add a random Skill to your hand. NL It costs 0 this turn. NL Kimerül."
   },
   "Dodge and Roll": {
     "NAME": "Dodge and Roll",
@@ -405,12 +405,12 @@
   },
   "Doppelganger": {
     "NAME": "Doppelganger",
-    "DESCRIPTION": "Next turn, draw X cards and gain X [G]. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Next turn, draw X+1 cards and gain X+1 [G]. NL Exhaust."
+    "DESCRIPTION": "Next turn, draw X cards and gain X [G]. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Next turn, draw X+1 cards and gain X+1 [G]. NL Kimerül."
   },
   "Double Energy": {
     "NAME": "Double Energy",
-    "DESCRIPTION": "Double your Energy. NL Exhaust.",
+    "DESCRIPTION": "Double your Energy. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Double your Energy."
   },
   "Double Tap": {
@@ -420,15 +420,15 @@
   },
   "Doubt": {
     "NAME": "Doubt",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Weak."
+    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, gain 1 Weak."
   },
   "Dramatic Entrance": {
     "NAME": "Dramatic Entrance",
-    "DESCRIPTION": "Innate. NL Deal !D! damage to ALL enemies. NL Exhaust."
+    "DESCRIPTION": "Kezdőlap. NL Deal !D! damage to ALL enemies. NL Kimerül."
   },
   "Dropkick": {
     "NAME": "Dropkick",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy is Vulnerable, NL Gain [R] and NL draw 1 card."
+    "DESCRIPTION": "Üss !D! sebzést. NL If the enemy is Sebezhetőség, NL Gain [R] and NL draw 1 card."
   },
   "Dual Wield": {
     "NAME": "Dual Wield",
@@ -441,7 +441,7 @@
   },
   "Echo Form": {
     "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice. NL Ethereal.",
+    "DESCRIPTION": "The first card you play each turn is played twice. NL Anyagtalan.",
     "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Electrodynamics": {
@@ -451,7 +451,7 @@
   },
   "Endless Agony": {
     "NAME": "Endless Agony",
-    "DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Üss !D! sebzést. NL Kimerül."
   },
   "Energy Pulse": {
     "NAME": "Energy Pulse",
@@ -487,7 +487,7 @@
   },
   "Exhume": {
     "NAME": "Exhume",
-    "DESCRIPTION": "Place a card from your exhaust pile into your hand. NL Exhaust."
+    "DESCRIPTION": "Place a card from your exhaust pile into your hand. NL Kimerül."
   },
   "Expertise": {
     "NAME": "Expertise",
@@ -495,7 +495,7 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card.",
+    "DESCRIPTION": "Üss !D! sebzést. If you have played less than !M! cards this turn, draw 1 card.",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " card played.)",
@@ -504,7 +504,7 @@
   },
   "Feed": {
     "NAME": "Feed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! permanent Max HP. Exhaust."
+    "DESCRIPTION": "Üss !D! sebzést. NL If this kills a non-minion enemy, gain !M! permanent Max HP. Kimerül."
   },
   "Feel No Pain": {
     "NAME": "Feel No Pain",
@@ -512,7 +512,7 @@
   },
   "Fiend Fire": {
     "NAME": "Fiend Fire",
-    "DESCRIPTION": "Exhaust your hand. NL Deal !D! damage for each Exhausted card. NL Exhaust."
+    "DESCRIPTION": "Exhaust your hand. NL Deal !D! damage for each Exhausted card. NL Kimerül."
   },
   "Finesse": {
     "NAME": "Finesse",
@@ -533,8 +533,8 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Exhaust."
+    "DESCRIPTION": "Remove ALL of your Orbs, gain [B] and draw !M! card for each Orb removed. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Evoke ALL of your Orbs, gain [B] and draw !M! card for each Orb Evoked. NL Kimerül."
   },
   "Flame Barrier": {
     "NAME": "Flame Barrier",
@@ -542,7 +542,7 @@
   },
   "Flash of Steel": {
     "NAME": "Flash of Steel",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw 1 card."
   },
   "Flechettes": {
     "NAME": "Flechettes",
@@ -559,11 +559,11 @@
   },
   "Flux Capacitor": {
     "NAME": "Flux Capacitor",
-    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+    "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Kimerül."
   },
   "Flying Knee": {
     "NAME": "Flying Knee",
-    "DESCRIPTION": "Deal !D! damage. NL Next turn gain [G]."
+    "DESCRIPTION": "Üss !D! sebzést. NL Next turn gain [G]."
   },
   "Footwork": {
     "NAME": "Footwork",
@@ -579,20 +579,20 @@
   },
   "Gash": {
     "NAME": "Claw",
-    "DESCRIPTION": "Deal !D! damage. NL All Claw cards deal !M! additional damage this combat."
+    "DESCRIPTION": "Üss !D! sebzést. NL All Claw cards deal !M! additional damage this combat."
   },
   "Genetic Algorithm": {
     "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Kimerül."
   },
   "Ghostly": {
     "NAME": "Apparition",
-    "DESCRIPTION": "Gain 1 Intangible. NL Exhaust. NL Ethereal.",
-    "UPGRADE_DESCRIPTION": "Gain 1 Intangible. NL Exhaust."
+    "DESCRIPTION": "Szerezz 1 Érinthetetlenséget. NL Kimerül. NL Anyagtalan.",
+    "UPGRADE_DESCRIPTION": "Szerezz 1 Érinthetetlenséget. NL Kimerül."
   },
   "Ghostly Armor": {
     "NAME": "Ghostly Armor",
-    "DESCRIPTION": "Ethereal. NL Gain !B! Block."
+    "DESCRIPTION": "Anyagtalan. NL Gain !B! Block."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -605,7 +605,7 @@
   },
   "Go for the Eyes": {
     "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "DESCRIPTION": "Üss !D! sebzést. If the enemy intends to attack, apply !M! Weak."
   },
   "Good Instincts": {
     "NAME": "Good Instincts",
@@ -622,7 +622,7 @@
   },
   "Headbutt": {
     "NAME": "Headbutt",
-    "DESCRIPTION": "Deal !D! damage. NL Place a card from your discard pile on top of your draw pile."
+    "DESCRIPTION": "Üss !D! sebzést. NL Place a card from your discard pile on top of your draw pile."
   },
   "Heatsinks": {
     "NAME": "Heatsinks",
@@ -631,29 +631,29 @@
   },
   "Heavy Blade": {
     "NAME": "Heavy Blade",
-    "DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Strength affects Heavy Blade !M! times."
+    "DESCRIPTION": "Üss !D! sebzést. NL Strength affects Heavy Blade !M! times.",
+    "UPGRADE_DESCRIPTION": "Üss !D! sebzést. NL Strength affects Heavy Blade !M! times."
   },
   "Heel Hook": {
     "NAME": "Heel Hook",
-    "DESCRIPTION": "Deal !D! damage. NL If the enemy is Weak, NL Gain [G] and NL draw 1 card."
+    "DESCRIPTION": "Üss !D! sebzést. NL If the enemy is Weak, NL Gain [G] and NL draw 1 card."
   },
   "Hello World": {
     "NAME": "Hello World",
     "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL At the start of your turn, add a random Common card into your hand."
   },
   "Hemokinesis": {
     "NAME": "Hemokinesis",
-    "DESCRIPTION": "Lose !M! HP. NL Deal !D! damage."
+    "DESCRIPTION": "Lose !M! HP. NL Üss !D! sebzést."
   },
   "Hide": {
     "NAME": "Hide",
-    "DESCRIPTION": "You cannot lose HP until the start of your next turn. NL Exhaust."
+    "DESCRIPTION": "You cannot lose HP until the start of your next turn. NL Kimerül."
   },
   "Hologram": {
     "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand. NL Exhaust.",
+    "DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
   },
   "Hyperbeam": {
@@ -671,21 +671,21 @@
   },
   "Impervious": {
     "NAME": "Impervious",
-    "DESCRIPTION": "Gain !B! Block. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. NL Kimerül."
   },
   "Impulse": {
     "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
+    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
   },
   "Infernal Blade": {
     "NAME": "Infernal Blade",
-    "DESCRIPTION": "Add a random Attack to your hand. NL It costs 0 this turn. NL Exhaust."
+    "DESCRIPTION": "Add a random Attack to your hand. NL It costs 0 this turn. NL Kimerül."
   },
   "Infinite Blades": {
     "NAME": "Infinite Blades",
     "DESCRIPTION": "At the start of your turn, add a Shiv to your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a Shiv to your hand."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL At the start of your turn, add a Shiv to your hand."
   },
   "Inflame": {
     "NAME": "Inflame",
@@ -693,15 +693,15 @@
   },
   "Injury": {
     "NAME": "Injury",
-    "DESCRIPTION": "Unplayable."
+    "DESCRIPTION": "Kijátszhatatlan."
   },
   "Intimidate": {
     "NAME": "Intimidate",
-    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Exhaust."
+    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Kimerül."
   },
   "Iron Wave": {
     "NAME": "Iron Wave",
-    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage."
+    "DESCRIPTION": "Gain !B! Block. NL Üss !D! sebzést."
   },
   "J.A.X.": {
     "NAME": "J.A.X.",
@@ -709,8 +709,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Jack Of All Trades",
-    "DESCRIPTION": "Add !M! random colorless card to your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+    "DESCRIPTION": "Add !M! random colorless card to your hand. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Kimerül."
   },
   "Juggernaut": {
     "NAME": "Juggernaut",
@@ -726,12 +726,12 @@
   },
   "Limit Break": {
     "NAME": "Limit Break",
-    "DESCRIPTION": "Double your Strength. NL Exhaust.",
+    "DESCRIPTION": "Double your Strength. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Double your Strength."
   },
   "Lockon": {
     "NAME": "Bullseye",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Lock-On."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Lock-On."
   },
   "Loop": {
     "NAME": "Loop",
@@ -741,11 +741,11 @@
   "Machine Learning": {
     "NAME": "Machine Learning",
     "DESCRIPTION": "Draw !M! additional card at the start of each turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL Draw !M! additional card at the start of each turn."
   },
   "Madness": {
     "NAME": "Madness",
-    "DESCRIPTION": "A random card in your hand costs 0 for the rest of combat. NL Exhaust."
+    "DESCRIPTION": "A random card in your hand costs 0 for the rest of combat. NL Kimerül."
   },
   "Magnetism": {
     "NAME": "Magnetism",
@@ -753,16 +753,16 @@
   },
   "Malaise": {
     "NAME": "Malaise",
-    "DESCRIPTION": "Enemy loses X Strength. Apply X Weak. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Enemy loses X+1 Strength. Apply X+1 Weak. NL Exhaust."
+    "DESCRIPTION": "Enemy loses X Strength. Apply X Weak. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Enemy loses X+1 Strength. Apply X+1 Weak. NL Kimerül."
   },
   "Master of Strategy": {
     "NAME": "Master of Strategy",
-    "DESCRIPTION": "Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Draw !M! cards. NL Kimerül."
   },
   "Masterful Stab": {
     "NAME": "Masterful Stab",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you take damage, increase this card's cost by 1.",
+    "DESCRIPTION": "Üss !D! sebzést. NL Whenever you take damage, increase this card's cost by 1.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Mayhem": {
@@ -771,7 +771,7 @@
   },
   "Melter": {
     "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "DESCRIPTION": "Remove all Block from an enemy. NL Üss !D! sebzést."
   },
   "Metallicize": {
     "NAME": "Metallicize",
@@ -779,15 +779,15 @@
   },
   "Metamorphosis": {
     "NAME": "Metamorphosis",
-    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Exhaust."
+    "DESCRIPTION": "Add !M! random Attacks into your Draw Pile. They cost 0 this combat. NL Kimerül."
   },
   "Meteor Strike": {
     "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "DESCRIPTION": "Üss !D! sebzést. NL Channel !M! Plasma."
   },
   "Mind Blast": {
     "NAME": "Mind Blast",
-    "DESCRIPTION": "Innate. NL Deal damage equal to the number of cards in your draw pile.",
+    "DESCRIPTION": "Kezdőlap. NL Deal damage equal to the number of cards in your draw pile.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " NL (Deals !D! damage.)"
@@ -800,15 +800,15 @@
   },
   "Necronomicurse": {
     "NAME": "Necronomicurse",
-    "DESCRIPTION": "Unplayable. NL There is no escape from this Curse."
+    "DESCRIPTION": "Kijátszhatatlan. NL There is no escape from this Curse."
   },
   "Neutralize": {
     "NAME": "Neutralize",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Weak."
   },
   "Night Terror": {
     "NAME": "Nightmare",
-    "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Exhaust.",
+    "DESCRIPTION": "Choose a card. NL Next turn, add !M! copies of that card into your hand. Kimerül.",
     "EXTENDED_DESCRIPTION": [
       "I can only use NL ",
       " NL once per turn."
@@ -816,10 +816,10 @@
   },
   "Normality": {
     "NAME": "Normality",
-    "DESCRIPTION": "Unplayable. NL You cannot play more than 3 cards this turn.",
+    "DESCRIPTION": "Kijátszhatatlan. NL You cannot play more than 3 cards this turn.",
     "EXTENDED_DESCRIPTION": [
       "I can only play up to NL #r3 cards this turn.",
-      "Unplayable. NL You cannot play more than ",
+      "Kijátszhatatlan. NL You cannot play more than ",
       " cards per turn.",
       " cards per turn. NL You have played ",
       " card this turn.",
@@ -831,7 +831,7 @@
     "DESCRIPTION": "Deal damage to ALL enemies equal to !M! times the number of Powers played this combat.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
+      " NL Kimerül.",
       " NL (Deals !D! damage)."
     ]
   },
@@ -841,8 +841,8 @@
   },
   "Offering": {
     "NAME": "Offering",
-    "DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Lose 6 HP. NL Gain [R] [R]. NL Draw !M! cards. NL Kimerül."
   },
   "Outmaneuver": {
     "NAME": "Outmaneuver",
@@ -856,11 +856,11 @@
   },
   "Pain": {
     "NAME": "Pain",
-    "DESCRIPTION": "Unplayable. NL While in hand, NL lose 1 HP when other cards are played."
+    "DESCRIPTION": "Kijátszhatatlan. NL While in hand, NL lose 1 HP when other cards are played."
   },
   "Panacea": {
     "NAME": "Panacea",
-    "DESCRIPTION": "Gain !M! Artifact. NL Exhaust."
+    "DESCRIPTION": "Gain !M! Artifact. NL Kimerül."
   },
   "Panache": {
     "NAME": "Panache",
@@ -868,12 +868,12 @@
   },
   "Parasite": {
     "NAME": "Parasite",
-    "DESCRIPTION": "Unplayable. NL If transformed or removed from your deck, lose 3 Max HP"
+    "DESCRIPTION": "Kijátszhatatlan. NL If transformed or removed from your deck, lose 3 Max HP"
   },
   "Perfected Strike": {
     "NAME": "Perfected Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Deals an additional +2 damage for ALL of your cards containing \"Strike\".",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Deals an additional +3 damage for ALL of your cards containing \"Strike\"."
+    "DESCRIPTION": "Üss !D! sebzést. NL Deals an additional +2 damage for ALL of your cards containing \"Strike\".",
+    "UPGRADE_DESCRIPTION": "Üss !D! sebzést. NL Deals an additional +3 damage for ALL of your cards containing \"Strike\"."
   },
   "Phantasmal Killer": {
     "NAME": "Phantasmal Killer",
@@ -881,24 +881,24 @@
   },
   "PiercingWail": {
     "NAME": "Piercing Wail",
-    "DESCRIPTION": "ALL enemies lose !M! Strength for 1 turn. NL Exhaust."
+    "DESCRIPTION": "ALL enemies lose !M! Strength for 1 turn. NL Kimerül."
   },
   "Poisoned Stab": {
     "NAME": "Poisoned Stab",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Poison."
   },
   "Pommel Strike": {
     "NAME": "Pommel Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards."
+    "DESCRIPTION": "Üss !D! sebzést. NL Húzz !M! kártyát.",
+    "UPGRADE_DESCRIPTION": "Üss !D! sebzést. NL Húzz !M! kártyát."
   },
   "Power Through": {
-    "NAME": "Power Through",
-    "DESCRIPTION": "Add 2 Wounds to your hand. NL Gain !B! Block."
+    "NAME": "Összeszorított fogak",
+    "DESCRIPTION": "Adj 2 Sebet a kezedbe. NL Szerezz !B! Blokkot."
   },
   "Predator": {
     "NAME": "Predator",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 2 more cards next turn."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw 2 more cards next turn."
   },
   "Prepared": {
     "NAME": "Prepared",
@@ -915,16 +915,16 @@
   },
   "Pummel": {
     "NAME": "Pummel",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Kimerül."
   },
   "Purity": {
     "NAME": "Purity",
-    "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Exhaust."
+    "DESCRIPTION": "Choose and Exhaust up to !M! cards in your hand. NL Kimerül."
   },
   "Quick Slash": {
     "NAME": "Quick Slash",
-    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw 1 card."
   },
   "Rage": {
     "NAME": "Rage",
@@ -932,32 +932,32 @@
   },
   "Rainbow": {
     "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
+    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
   },
   "Rampage": {
     "NAME": "Rampage",
-    "DESCRIPTION": "Deal !D! damage. NL Every time this card is played, increase its damage by !M! for this combat."
+    "DESCRIPTION": "Üss !D! sebzést. NL Every time this card is played, increase its damage by !M! for this combat."
   },
   "Reaper": {
     "NAME": "Reaper",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. Heal for unblocked damage dealt. NL Exhaust."
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. Heal for unblocked damage dealt. NL Kimerül."
   },
   "Reboot": {
     "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile. NL Draw !M! cards. NL Exhaust."
+    "DESCRIPTION": "Shuffle all of your cards into your draw pile. NL Draw !M! cards. NL Kimerül."
   },
   "Rebound": {
     "NAME": "Rebound",
-    "DESCRIPTION": "Deal !D! damage. NL Place the next card you play this turn on top of your draw pile."
+    "DESCRIPTION": "Üss !D! sebzést. NL Place the next card you play this turn on top of your draw pile."
   },
   "Reckless Charge": {
     "NAME": "Reckless Charge",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a Dazed into your draw pile."
+    "DESCRIPTION": "Üss !D! sebzést. NL Shuffle a Dazed into your draw pile."
   },
   "Recycle": {
     "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "DESCRIPTION": "Meríts ki egy kártyát. NL Szerezz annyi [B] amennyibe került."
   },
   "Redo": {
     "NAME": "Recursion",
@@ -965,15 +965,15 @@
   },
   "Reflex": {
     "NAME": "Reflex",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards.",
+    "DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, draw !M! cards.",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "Regret": {
     "NAME": "Regret",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, lose 1 HP for each card in your hand."
+    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, lose 1 HP for each card in your hand."
   },
   "Reinforced Body": {
     "NAME": "Reinforced Body",
@@ -1006,11 +1006,11 @@
   },
   "Scrape": {
     "NAME": "Scrape",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw !M! cards. NL Discard all cards drawn this way that do not cost 0."
   },
   "Searing Blow": {
     "NAME": "Searing Blow",
-    "DESCRIPTION": "Deal !D! damage. NL Can be upgraded any number of times."
+    "DESCRIPTION": "Üss !D! sebzést. NL Can be upgraded any number of times."
   },
   "Second Wind": {
     "NAME": "Second Wind",
@@ -1018,7 +1018,7 @@
   },
   "Secret Technique": {
     "NAME": "Secret Technique",
-    "DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand. NL Exhaust.",
+    "DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Choose a Skill from your draw pile and place it into your hand.",
     "EXTENDED_DESCRIPTION": [
       "There are no Skills NL in my draw pile."
@@ -1026,7 +1026,7 @@
   },
   "Secret Weapon": {
     "NAME": "Secret Weapon",
-    "DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand. NL Exhaust.",
+    "DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Choose an Attack from your draw pile and place it into your hand.",
     "EXTENDED_DESCRIPTION": [
       "There are no Attacks NL in my draw pile."
@@ -1034,12 +1034,12 @@
   },
   "Seeing Red": {
     "NAME": "Seeing Red",
-    "DESCRIPTION": "Gain [R] [R]. NL Exhaust."
+    "DESCRIPTION": "Gain [R] [R]. NL Kimerül."
   },
   "Seek": {
     "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Kimerül."
   },
   "Self Repair": {
     "NAME": "Self Repair",
@@ -1056,19 +1056,19 @@
   },
   "Sever Soul": {
     "NAME": "Sever Soul",
-    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. NL Deal !D! damage."
+    "DESCRIPTION": "Exhaust all non-Attack cards in your hand. NL Üss !D! sebzést."
   },
   "Shame": {
     "NAME": "Shame",
-    "DESCRIPTION": "Unplayable. NL At the end of your turn, gain 1 Frail."
+    "DESCRIPTION": "Kijátszhatatlan. NL At the end of your turn, gain 1 Frail."
   },
   "Shiv": {
     "NAME": "Shiv",
-    "DESCRIPTION": "Deal !D! damage. NL Exhaust."
+    "DESCRIPTION": "Üss !D! sebzést. NL Kimerül."
   },
   "Shockwave": {
     "NAME": "Shockwave",
-    "DESCRIPTION": "Apply !M! Weak and Vulnerable to ALL enemies. NL Exhaust."
+    "DESCRIPTION": "Apply !M! Weak and Sebezhetőség to ALL enemies. NL Kimerül."
   },
   "Shrug It Off": {
     "NAME": "Shrug It Off",
@@ -1084,11 +1084,11 @@
   },
   "Slice": {
     "NAME": "Slice",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Slimed": {
     "NAME": "Slimed",
-    "DESCRIPTION": "Exhaust."
+    "DESCRIPTION": "Kimerül."
   },
   "Spot Weakness": {
     "NAME": "Spot Weakness",
@@ -1118,7 +1118,7 @@
   "Storm": {
     "NAME": "Storm",
     "DESCRIPTION": "Whenever you play a Power, Channel 1 Lightning.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a Power, Channel 1 Lightning."
+    "UPGRADE_DESCRIPTION": "Kezdőlap. NL Whenever you play a Power, Channel 1 Lightning."
   },
   "Storm of Steel": {
     "NAME": "Storm of Steel",
@@ -1127,27 +1127,27 @@
   },
   "Streamline": {
     "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play this card, reduce its cost by !M! for this combat."
+    "DESCRIPTION": "Üss !D! sebzést. NL Whenever you play this card, reduce its cost by !M! for this combat."
   },
   "Strike_B": {
     "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Strike_G": {
     "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Strike_R": {
     "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Sucker Punch": {
     "NAME": "Sucker Punch",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Weak."
   },
   "Sunder": {
     "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "DESCRIPTION": "Üss !D! sebzést. NL If this kills the enemy, gain [B] [B] [B]."
   },
   "Survivor": {
     "NAME": "Survivor",
@@ -1159,7 +1159,7 @@
   },
   "Swift Strike": {
     "NAME": "Swift Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Üss !D! sebzést."
   },
   "Sword Boomerang": {
     "NAME": "Sword Boomerang",
@@ -1167,20 +1167,20 @@
   },
   "Tactician": {
     "NAME": "Tactician",
-    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G].",
-    "UPGRADE_DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain [G] [G].",
+    "DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, gain [G].",
+    "UPGRADE_DESCRIPTION": "Kijátszhatatlan. NL If this card is discarded from your hand, gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
   },
   "Tempest": {
     "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "DESCRIPTION": "Channel X Lightning. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Kimerül."
   },
   "Terror": {
     "NAME": "Terror",
-    "DESCRIPTION": "Apply 99 Vulnerable. NL Exhaust."
+    "DESCRIPTION": "Apply 99 Sebezhetőség. NL Kimerül."
   },
   "The Bomb": {
     "NAME": "The Bomb",
@@ -1188,7 +1188,7 @@
   },
   "Thinking Ahead": {
     "NAME": "Thinking Ahead",
-    "DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile. NL Exhaust.",
+    "DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Place a card from your hand on top of your draw pile."
   },
   "Thunder Strike": {
@@ -1200,7 +1200,7 @@
   },
   "Thunderclap": {
     "NAME": "Thunderclap",
-    "DESCRIPTION": "Deal !D! damage and apply 1 Vulnerable to ALL enemies."
+    "DESCRIPTION": "Deal !D! damage and apply 1 Sebezhetőség to ALL enemies."
   },
   "Tools of the Trade": {
     "NAME": "Tools of the Trade",
@@ -1208,13 +1208,13 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Exhaust."
+    "DESCRIPTION": "Add X random colorless cards to your hand. They cost 0 this turn. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Add X random upgraded colorless cards to your hand. They cost 0 this turn. NL Kimerül."
   },
   "Trip": {
     "NAME": "Trip",
-    "DESCRIPTION": "Apply !M! Vulnerable.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to ALL enemies."
+    "DESCRIPTION": "Apply !M! Sebezhetőség.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Sebezhetőség to ALL enemies."
   },
   "True Grit": {
     "NAME": "True Grit",
@@ -1232,7 +1232,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Sneaky Strike",
-    "DESCRIPTION": "Deal !D! damage. NL If you have discarded a card this turn, NL gain [G] [G].",
+    "DESCRIPTION": "Üss !D! sebzést. NL If you have discarded a card this turn, NL gain [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "I can't play this card."
     ]
@@ -1243,24 +1243,24 @@
   },
   "Unload": {
     "NAME": "Unload",
-    "DESCRIPTION": "Deal !D! damage. NL Discard ALL non-Attack cards."
+    "DESCRIPTION": "Üss !D! sebzést. NL Discard ALL non-Attack cards."
   },
   "Uppercut": {
     "NAME": "Uppercut",
-    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Apply !M! Vulnerable."
+    "DESCRIPTION": "Üss !D! sebzést. NL Apply !M! Weak. NL Apply !M! Sebezhetőség."
   },
   "Venomology": {
     "NAME": "Alchemize",
-    "DESCRIPTION": "Obtain a random potion. NL Exhaust."
+    "DESCRIPTION": "Obtain a random potion. NL Kimerül."
   },
   "Void": {
     "NAME": "Void",
-    "DESCRIPTION": "Unplayable. NL When this card is drawn, lose 1 Energy. NL Ethereal."
+    "DESCRIPTION": "Kijátszhatatlan. NL When this card is drawn, lose 1 Energy. NL Anyagtalan."
   },
   "Warcry": {
     "NAME": "Warcry",
-    "DESCRIPTION": "Draw !M! card. NL Place a card from your hand on top of your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Exhaust."
+    "DESCRIPTION": "Draw !M! card. NL Place a card from your hand on top of your draw pile. NL Kimerül.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Place a card from your hand on top of your draw pile. NL Kimerül."
   },
   "Well Laid Plans": {
     "NAME": "Well-Laid Plans",
@@ -1273,27 +1273,27 @@
   },
   "White Noise": {
     "NAME": "White Noise",
-    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Exhaust."
+    "DESCRIPTION": "Add a random Power to your hand. NL It costs 0 this turn. NL Kimerül."
   },
   "Wild Strike": {
     "NAME": "Wild Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Shuffle a Wound into your draw pile."
+    "DESCRIPTION": "Üss !D! sebzést. NL Keverj egy Sebet a Húzópaklidba."
   },
   "Winter": {
     "NAME": "Winter",
     "DESCRIPTION": "Deprecated."
   },
   "Wound": {
-    "NAME": "Wound",
-    "DESCRIPTION": "Unplayable."
+    "NAME": "Seb",
+    "DESCRIPTION": "Kijátszhatatlan."
   },
   "Wraith Form v2": {
     "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
+    "DESCRIPTION": "Szerezz !M! Érinthetetlenséget. NL At the end of each turn, lose 1 Dexterity."
   },
   "Writhe": {
     "NAME": "Writhe",
-    "DESCRIPTION": "Unplayable. NL Innate."
+    "DESCRIPTION": "Kijátszhatatlan. NL Kezdőlap."
   },
   "Zap": {
     "NAME": "Zap",
@@ -1301,31 +1301,31 @@
   },
   "Core Surge": {
     "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+    "DESCRIPTION": "Üss !D! sebzést. NL Gain !M! Artifact. NL Kimerül."
   },
   "Compile Driver": {
     "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+    "DESCRIPTION": "Üss !D! sebzést. NL Draw !M! card for each unique Orb you have."
   },
   "RitualDagger": {
     "NAME": "Ritual Dagger",
-    "DESCRIPTION": "Deal !D! damage. If this kills an enemy, permanently increase this card's damage by !M!. NL Exhaust."
+    "DESCRIPTION": "Üss !D! sebzést. If this kills an enemy, permanently increase this card's damage by !M!. NL Kimerül."
   },
   "Pride": {
     "NAME": "Pride",
-    "DESCRIPTION": "Innate. Exhaust. NL At the end of your turn, place a copy of this card on top of your draw pile."
+    "DESCRIPTION": "Kezdőlap. Kimerül. NL At the end of your turn, place a copy of this card on top of your draw pile."
   },
   "PanicButton": {
     "NAME": "Panic Button",
-    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Exhaust."
+    "DESCRIPTION": "Gain !B! Block. You cannot gain Block from cards for the next !M! turns. NL Kimerül."
   },
   "HandOfGreed": {
     "NAME": "Hand Of Greed",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills a non-minion enemy, gain !M! Gold."
+    "DESCRIPTION": "Üss !D! sebzést. NL If this kills a non-minion enemy, gain !M! Gold."
   },
   "Violence": {
     "NAME": "Violence",
-    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Exhaust."
+    "DESCRIPTION": "Place !M! random Attack cards from your draw pile into your hand. NL Kimerül."
   },
   "Impatience": {
     "NAME": "Impatience",
@@ -1338,7 +1338,7 @@
   },
   "Discovery": {
     "NAME": "Discovery",
-    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Exhaust.",
+    "DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn. NL Kimerül.",
     "UPGRADE_DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
 
   }
