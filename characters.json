@@ -30,16 +30,16 @@
     ],
     "TEXT": [
       "Szia! NL Vegyél valamit! NL Vegyél vegyél vegyél!",
-      "Tetszik a hajad",
+      "Tetszik a hajad.",
       "Van egy kis időd?",
       "Kutyás vagy inkább macskás ember vagy?",
       "~Veszélyesnek~ tűnsz, NL hehe...",
       "Használd ki az idődet... NL ..... NL ... vagy ne",
       "Tetszik ez a szőnyeg? NL Nem eladó!",
-      "Támogasd a kis vállalkozásokat!",
+      "Támogasd a kisvállalkozásokat!",
       "A maszkok menők, én már csak tudom!",
-      "Hmm... NL ...hmm... NL Oh!",
-      "Maradj még egy kicsit és hallgass meg!",
+      "Hmm... NL ...hmm... NL Ó!",
+      "Maradj még egy kicsit és fülelj!",
       "Veszélyes egyedül járkálni! Add oda minden aranyad!",
       "Vegyé' valamit",
       "~*ÁSÍT*~",
@@ -81,7 +81,7 @@
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gVálassz #gegy #gKártyát, #ghogy #gmegszerezd ]",
+      "[ #gVálassz #gegy #gKártyát, #ga #gpaklidba ]",
       "[ #gVálassz #gegy #gvéletlenszerű #gkivételes #gKártyát ]",
       "[ #gVálassz #gegy #gKártyát #ga #gpaklidból ]",
       "[ #gFejlessz #gegy #gKártyát ]",
@@ -113,7 +113,7 @@
 	  " #rsebzést"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rVeszítsd #rel #ra #rkezdő #rEreklyéd, #ghogy #gKapj #gegy #gvéletlenszerű #gboss #gEreklyét ]"
+      "[ #rVeszítsd #rel #ra #rkezdő #rEreklyéd, #ghogy #gKapj #gegy #gvéletlenszerű #gvezér #gEreklyét ]"
     ]
   },
   "Shop Screen": {
@@ -128,7 +128,7 @@
       "~Köööööszi~",
       "Mégegy eladva... NL hohoho! NL Ká - @Csing!@",
       "@ELADVA!@",
-      "Nincs visszatérítés.",
+      "A péztártól való távozás után... satöbbi.",
       "Legyen szép napod.",
       "Kilép",
       "Válassz egy kártyát, amit eltávolítasz a paklidból."
@@ -141,10 +141,10 @@
       "~Veszélyesnek~ tűnsz, NL hehe...",
       "Használd ki az idődet... NL ..... NL ... vagy ne",
       "Tetszik ez a szőnyeg? NL Nem eladó!",
-      "Támogasd a kis vállalkozásokat!",
+      "Támogasd a kisvállalkozásokat!",
       "A maszkok menők, én már csak tudom!",
       "Hmm... NL ...hmm... NL Oh!",
-      "Maradj még egy kicsit és hallgass meg!",
+      "Maradj még egy kicsit és fülelj!",
       "Veszélyes egyedül járkálni! Add oda minden aranyad!",
       "Vegyé' valamit",
       "~*ÁSÍT*~",
